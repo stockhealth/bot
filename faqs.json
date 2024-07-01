@@ -1,0 +1,47 @@
+[
+    {
+        "question": "What is my Collectors ID account?",
+        "answer": "Collectors ID is your single account to manage all of your collecting needs. You can now access PSA, PCGS, Goldin, and Collectors.com with one single email address and password. If you were an existing user of any one of these sites (or all of them), you’ll set up your Collectors ID the next time you log in with your account email and password. If you are a new user to any of these sites, you’ll set up your Collectors ID when you click “Sign up” at any of PSA, PCGS, Goldin, or Collectors.com."
+    },
+    {
+        "question": "What are the benefits to having this account?",
+        "answer": "The primary benefit is that you will have one account to manage all of your collecting needs. You’ll no longer need to sign in each time you visit one of our sites, and you’ll no longer need to remember unique email address and password combinations to PSA, PCGS, Goldin, and Collectors.com. Your account provides seamless access to our sites and lets you easily submit items for grading, vault your collectibles, track your collection, and sell on Goldin."
+    },
+    {
+        "question": "What are the benefits to having this account?",
+        "answer": "The primary benefit is that you will have one account to manage all of your collecting needs. You’ll no longer need to sign in each time you visit one of our sites, and you’ll no longer need to remember unique email address and password combinations to PSA, PCGS, Goldin, and Collectors.com. Your account provides seamless access to our sites and lets you easily submit items for grading, vault your collectibles, track your collection, and sell on Goldin."
+    },
+    {
+        "question": "What are the benefits to having this account?",
+        "answer": "The primary benefit is that you will have one account to manage all of your collecting needs. You’ll no longer need to sign in each time you visit one of our sites, and you’ll no longer need to remember unique email address and password combinations to PSA, PCGS, Goldin, and Collectors.com. Your account provides seamless access to our sites and lets you easily submit items for grading, vault your collectibles, track your collection, and sell on Goldin."
+    },
+     {
+        "question": "How do I change my password?",
+        "answer": "To change your password, navigate to collectors.com/profile and click “Change Password”. Once you hit save, it will update your Collectors SSO password for all sites."
+    },
+    {
+        "question": "Do I still need to update my shipping address across each site? What about my order history, billing info, or other profile information?",
+        "answer": "Yes, you will need to maintain your shipping address, billing info, order history, and other profile information at each individual site."
+    },
+
+    {
+        "question": "What happens if I had multiple accounts across PSA, PCGS, Goldin with the same email",
+        "answer": "Your previous accounts at PSA, PCGS, and Goldin have been combined and consolidated under your account email address. You now have one single email and password to access all sites, so you won’t have to remember your credentials for each one individually."
+    },
+    {
+        "question": "What if I have multiple accounts across sites with a different email address?",
+        "answer": "T"
+    },
+    {
+        "question": "What are the benefits to having this account?",
+        "answer": "If you have multiple accounts with different email addresses, you will still manage each account individually at the separate email addresses."
+    },
+    {
+        "question": "What is Collectors.com? Where can I learn more?",
+        "answer": "Click here to learn more about Collectors.com, Collectors Vault, and all of its collecting features!"
+    },
+    {
+        "question": "Where can I go to for help?",
+        "answer": "Click here to contact us regarding PSA, PCGS, and Collectors.com. Click here to contact us regarding Goldin."
+    }
+]

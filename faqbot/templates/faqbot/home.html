@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ Bot</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'faqbot/styles.css' %}">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h1>FAQ Bot</h1>
+        </div>
+        <div class="chat-box" id="chat-box">
+            <!-- Chat messages will be appended here dynamically -->
+        </div>
+        <div class="chat-input">
+            <form id="chat-form" action="{% url 'get_answer' %}" method="get">
+                <input type="text" id="query" name="query" placeholder="Ask a question..." required>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+    <script src="{% static 'faqbot/scripts.js' %}"></script>
+</body>
+</html>
